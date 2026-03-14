@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+
+Scenario A1-ARFF/
+Scenario A2-ARFF/
+Scenario B-ARFF/
+data/
